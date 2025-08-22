@@ -6,6 +6,6 @@ public class SavingsAccount extends Account {
     }
 
     void calculateInterest() {
-        System.out.println(balance * 0.04 + "% Annual interest");
+        System.out.println("Annual interest: " + (balance * 0.04) + currency);
     }
 }

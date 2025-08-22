@@ -6,6 +6,6 @@ public class CurrentAccount extends Account {
     }
 
     void calculateInterest() {
-        System.out.println(balance * 0.02 + "% Annual interest");
+        System.out.println("Annual interest: " + (balance * 0.02) + currency);
     }
 }
