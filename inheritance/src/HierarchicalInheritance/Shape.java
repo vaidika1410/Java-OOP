@@ -10,4 +10,8 @@ public class Shape {
     void displayColor() {
         System.out.println("Color: " + color);
     }
+
+    void area() {
+        System.out.println("Area of shape");
+    }
 }
