@@ -51,7 +51,7 @@ public class Main {
 
         System.out.println(Arrays.toString(paidAmt));
         System.out.println(Arrays.toString(refundAmt));
-        System.out.println(Arrays.toString(payments));
+//        System.out.println(Arrays.toString(payments));
 
 //        Transactions summary
         System.out.println("--------Transactions summary--------");
